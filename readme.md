@@ -1,0 +1,1 @@
+This is a simple package to collect proxies from us-proxy.org
